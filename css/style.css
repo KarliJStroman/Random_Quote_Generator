@@ -1,0 +1,27 @@
+#quote-box{
+    margin: auto;
+    width: 50%;
+    top: 50px;
+    }
+    #buttons{
+        text-align: center;
+    }
+    #new-quote{
+        margin-left: 20px;
+    }
+    .card{
+        box-shadow: 10px 10px 10px 10px;
+    }
+    .card-header{
+        text-align: center;
+        font-size: 27px;
+    
+    }
+    #quote-block{
+        display: flex;
+        justify-content: center;
+    }
+    #author{
+        text-align: center;
+    }
+    
